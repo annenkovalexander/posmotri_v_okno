@@ -1,0 +1,1 @@
+git@github.com:annenkovalexander/posmotri_v_okno.git
